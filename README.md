@@ -13,11 +13,11 @@ Search for new books to read by logging in to the book search engine website.
 
 ## Installation
 
-- npm i
+- npm install
 
 ## Usage
 
-- node server
+- npm start
 
 ## Contribution
 
@@ -27,5 +27,3 @@ Sumit Ojha
 
 - sumit.ojha.dev@gmail.com
 - https://github.com/sumitsann
-
-
